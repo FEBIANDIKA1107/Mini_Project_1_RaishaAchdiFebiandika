@@ -3,7 +3,8 @@
 NAMA: Raisha Achdi Febiandika<br>
 NIM: 2609116071
 
-<img width="1102" height="1081" alt="Diagram Tanpa Judul drawio" src="https://github.com/user-attachments/assets/fa3a23ae-e282-48eb-ae1f-c2fca4944ced" />
+<img width="1532" height="1083" alt="flowchart drawio" src="https://github.com/user-attachments/assets/6afdea7b-9a45-4841-b205-193b3f476bd2" />
+
 
 <img width="901" height="389" alt="Cuplikan layar 2026-09-12 185324" src="https://github.com/user-attachments/assets/4245d9dd-0c27-4a8f-a7f0-acce64517fb7" />
 
